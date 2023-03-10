@@ -1,14 +1,14 @@
 public class BoletimEstudantil {
-public static void main(String[] args) {
+    public static void main(String[] args) {
         int mediaFinal = 6;
-        if(mediaFinal<6)
-        System.out.println("REPROVADO");
-        else if(mediaFinal==6)
-        System.out.println("PROVA MINERVA");
+        if(mediaFinal < 6)
+           System.out.println("REPROVADO");
+        else if(mediaFinal == 6)
+           System.out.println("PROVA MINERVA");
         else
-        System.out.println("APROVADO");
-        }
+           System.out.println("APROVADO");
     }
-/* o algoritmo esta SEM IDENTACAO, fora de tabulacao, as expressoes estao "baguncadas", pra nivel de visualizacao
- * esta muito complexo.
- */
+}
+/* o algoritmo esta COM IDENTACAO, separado em blocos, CLASSE - METODO - FLUXO - ACOES , dessa forma fica mais legivel
+mais agradevel de se ler o codigo.
+*/
