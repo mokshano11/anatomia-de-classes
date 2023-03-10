@@ -1,3 +1,5 @@
+package edu.mateus.anatclasses;
+
 public class MinhaClasse {
 
     public static void main (String [] args) {  /* metodo "main" */

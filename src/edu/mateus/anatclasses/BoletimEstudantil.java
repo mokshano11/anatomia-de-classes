@@ -1,3 +1,6 @@
+package edu.mateus.anatclasses;
+
+
 public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 6;
